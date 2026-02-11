@@ -86,10 +86,11 @@ No custom CSS files are used for styling; all UI design is implemented via Tailw
 
 ### Screenshots
 
-Add your own screenshots here after running the app:
+### Dashboard
+![Dashboard](./dashboard.jpg)
 
-- `screenshots/dashboard.png` – Dashboard page with user list and create form.
-- `screenshots/user-details.png` – User details page with address and geo-location.
+### User Details
+![User Details](./user.jpg)
 
 ### Notes
 
